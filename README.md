@@ -1,4 +1,4 @@
-# Lima Districts Analysis
+# Machine Recognition of Handwritten Numbers
 
 ## Business Problem
 
